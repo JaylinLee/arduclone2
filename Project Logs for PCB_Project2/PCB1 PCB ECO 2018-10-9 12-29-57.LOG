@@ -1,0 +1,57 @@
+Added Component: Designator=SW-A(KEY-SMT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW-B(KEY-SMT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW-DOWN(KEY-SMT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW-LEFT(KEY-SMT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW-RIGHT(KEY-SMT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW-RST(KEY-SMT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW-UP(KEY-SMT)
+Add component. Clean all parameters for all variants
+Added Net: Name=D0
+Added Net: Name=D1
+Added Net: Name=DC
+Added Pin To Net: NetName=GND Pin=SW-A-2
+Added Pin To Net: NetName=GND Pin=SW-A-2
+Added Pin To Net: NetName=GND Pin=SW-B-2
+Added Pin To Net: NetName=GND Pin=SW-B-2
+Added Pin To Net: NetName=GND Pin=SW-DOWN-1
+Added Pin To Net: NetName=GND Pin=SW-DOWN-1
+Added Pin To Net: NetName=GND Pin=SW-LEFT-1
+Added Pin To Net: NetName=GND Pin=SW-LEFT-1
+Added Pin To Net: NetName=GND Pin=SW-RIGHT-1
+Added Pin To Net: NetName=GND Pin=SW-RIGHT-1
+Added Pin To Net: NetName=GND Pin=SW-RST-1
+Added Pin To Net: NetName=GND Pin=SW-RST-1
+Added Pin To Net: NetName=GND Pin=SW-UP-1
+Added Pin To Net: NetName=GND Pin=SW-UP-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Netarduino micro pro_10 Pin=SW-A-1
+Added Pin To Net: NetName=Netarduino micro pro_10 Pin=SW-A-1
+Added Net: Name=Netarduino micro pro_10
+Added Pin To Net: NetName=Netarduino micro pro_11 Pin=SW-B-1
+Added Pin To Net: NetName=Netarduino micro pro_11 Pin=SW-B-1
+Added Net: Name=Netarduino micro pro_11
+Added Pin To Net: NetName=Netarduino micro pro_15 Pin=SW-RST-2
+Added Pin To Net: NetName=Netarduino micro pro_15 Pin=SW-RST-2
+Added Net: Name=Netarduino micro pro_15
+Added Pin To Net: NetName=Netarduino micro pro_17 Pin=SW-DOWN-2
+Added Pin To Net: NetName=Netarduino micro pro_17 Pin=SW-DOWN-2
+Added Net: Name=Netarduino micro pro_17
+Added Pin To Net: NetName=Netarduino micro pro_18 Pin=SW-LEFT-2
+Added Pin To Net: NetName=Netarduino micro pro_18 Pin=SW-LEFT-2
+Added Net: Name=Netarduino micro pro_18
+Added Pin To Net: NetName=Netarduino micro pro_19 Pin=SW-RIGHT-2
+Added Pin To Net: NetName=Netarduino micro pro_19 Pin=SW-RIGHT-2
+Added Net: Name=Netarduino micro pro_19
+Added Pin To Net: NetName=Netarduino micro pro_20 Pin=SW-UP-2
+Added Pin To Net: NetName=Netarduino micro pro_20 Pin=SW-UP-2
+Added Net: Name=Netarduino micro pro_20
+Added Net: Name=OLEDRST
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
